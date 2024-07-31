@@ -141,6 +141,7 @@ select:hover,
 .skills {
     display: flex;
     flex-direction:column;
+    gap: 20px;
     /* 📍 Свойства flexbox для расположения элементов с классом .label */
 }
 
